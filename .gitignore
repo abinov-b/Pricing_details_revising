@@ -12,7 +12,7 @@ fastapi_app/uploads/*.csv
 node_modules/
 
 # Angular
-.angular/cache/
+.angular/
 dist/
 
 # IDE
